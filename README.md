@@ -2,4 +2,4 @@
 
 Run:
 
-`cat input.txt | python3 script.py `
+`cat input.txt | python3 script.py`
